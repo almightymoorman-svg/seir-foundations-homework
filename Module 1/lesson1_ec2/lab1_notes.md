@@ -1,12 +1,14 @@
 # Lab 1 Notes
 
-## Run 1 - Instance ID: i-REPLACE_ME
+## Run 1 - Instance ID: i-0a11895f66a92381c
 
-What changed:
-Errors and fixes:
-What I newly understood:
 
-Unique output line from this run:
+What changed: This was my first attempt at the lab since our most recent class. I followed the runbook step by step, copying each command from it and checking that every command gave the expected result. By the end I had the bank app fully started.
+
+Errors and fixes: I didn't run into any errors. What surprised me was how long the lab takes when you don't have the commands memorized.
+
+What I newly understood: I now understand how important it is to check that I'm in the right place with commands like "pwd." If you run something from the wrong folder, it can cause errors and you may not even know why.
+
 
 
 ## Run 2 - Instance ID: i-REPLACE_ME
