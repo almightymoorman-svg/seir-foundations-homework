@@ -1,0 +1,24 @@
+
+Q1: What should my lab notes look like?
+AI's answer: The AI gave a template with one section per run, each starting with the run number and Instance ID. Each section had what changed, errors and fixes, what I newly understood, and one unique output line. It also had a COBOL practice section and the two closing lists.
+How I checked it: I compared the template line by line against the assignment's lab1_notes.md requirements.
+
+Q2: What should my README.md look like?
+AI's answer: The AI gave a Markdown table with 8 columns (Run, Date, Time zone, Instance ID, Boot time, Public IPv4 DNS, Screenshot, Terminated?) and 7 rows, one per lab run.
+How I checked it: I compared the column names to the assignment's list and previewed the table in VS Code.
+
+Q3: Do I paste my screenshots into the table, or does it link automatically?
+AI's answer: It doesn't link automatically. The Screenshot column is just text, and I save the image in the screenshots folder separately. A Markdown link is optional.
+How I checked it: I pushed a row and clicked the link on GitHub to see if it opened.
+
+Q4: What exactly should my lab screenshots show?
+AI's answer: The terminal with the ID line output and "Application startup complete." on screen together, with the Instance ID and boot time matching my table row.
+How I checked it: I compared the AI's answer to the assignment's screenshot rules and the runbook's expected uvicorn output.
+
+Q5: How do I do the 5 COBOL screenshots, and should I have 7?
+AI's answer: The AI said I need 5, not 7. Seven is only for lab runs. I do the COBOL work once on one lab-run instance in /opt/balerica-bank.
+How I checked it: I counted the COBOL files listed in the assignment and read Step 3 of the runbook.
+
+Where the AI was wrong, vague or out of date:
+- The AI first told me the screenshots folder would hold 17 images, then corrected itself to 16. I checked by counting the assignment's file list myself: 7 lab runs, 4 return codes, 1 ledger decode, 1 git clone and 3 quizzes.
+- The AI's first lab notes template only showed Run 1 and Run 2 with "...", which was vague. I had to ask whether I needed only 2 runs and it then gave me all 7.
