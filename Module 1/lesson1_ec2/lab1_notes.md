@@ -11,7 +11,15 @@ What I newly understood: I now understand how important it is to check that I'm 
 
 
 
-## Run 2 - Instance ID: i-REPLACE_ME
+## Run 2 - Instance ID: i-0e67fffc1c7851fe8
+What changed:
+Errors and fixes:
+What I newly understood:
+
+Unique output line from this run:
+
+
+## Run 3 - Instance ID: i-02f4b0603903c18df
 
 What changed:
 Errors and fixes:
@@ -20,7 +28,7 @@ What I newly understood:
 Unique output line from this run:
 
 
-## Run 3 - Instance ID: i-REPLACE_ME
+## Run 4 - Instance ID: i-05518024c7c5fbc6b
 
 What changed:
 Errors and fixes:
@@ -29,16 +37,7 @@ What I newly understood:
 Unique output line from this run:
 
 
-## Run 4 - Instance ID: i-REPLACE_ME
-
-What changed:
-Errors and fixes:
-What I newly understood:
-
-Unique output line from this run:
-
-
-## Run 5 - Instance ID: i-REPLACE_ME
+## Run 5 - Instance ID: i-0614ecb74cd1a6f1f
 
 What changed:
 Errors and fixes:
